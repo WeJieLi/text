@@ -6,6 +6,6 @@ public class WeiJie
 	{
 		System.out.println("我是伟杰");
 		System.out.println("我是伟杰2");
-		System.out.println("我是伟杰3");
+		System.out.println("我是伟杰555");
 	}
 }
